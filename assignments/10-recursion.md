@@ -18,7 +18,7 @@
 - [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
 - [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
 - [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
-- [x] [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
+- [x] [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG` 
 - [x] [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
 - [x] [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
 - [x] [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
@@ -93,3 +93,7 @@
 - [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
+
+
+## Reversion
+- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
